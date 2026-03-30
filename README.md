@@ -41,7 +41,7 @@ This project focuses on analyzing Zomato restaurant data to uncover insights abo
 
 ## Author
 **Anil S Mattibeam**  
-anilpaulpaul123@gmail.com  
+Email : anilpaulpaul123@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anil-s-paul/  
 GitHub: https://github.com/anil-paul-04  
 
