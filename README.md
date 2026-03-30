@@ -10,7 +10,7 @@ This project focuses on analyzing Zomato restaurant data to uncover insights abo
 - Evaluate the impact of online delivery and table booking
 - Discover patterns in customer preferences
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Power BI (Data Visualization & Dashboarding)
 - Power Query (Data Cleaning & Transformation)
 - DAX (Data Analysis Expressions)
@@ -25,9 +25,6 @@ This project focuses on analyzing Zomato restaurant data to uncover insights abo
 
 ## Dashboard Preview
 (Add screenshots of your Power BI dashboard here)
-
-Example:
-![Dashboard](dashboard.png)
 
 ## Dataset
 - The dataset includes information on restaurant names, locations, cuisines, ratings, votes, and pricing.
